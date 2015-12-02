@@ -8,16 +8,10 @@ We are looking for a great **Frontend Developer** to join our team and work on o
 Thank you very much for applying and your interest in Vimcar. To get to know you a little better, show off your skills and take part in our frontend coding challenge. Please send your results to jobs@vimcar.com or create a pull request or use any other channel, if we are already in contact.
 
 ### The Challenge: A "Reason" Management Tool
-Have a look at this full featured (create, delete, search) [click dummy](https://projects.invisionapp.com/share/AC4105VQ3) of a "reason" management tool. Something that could be required in our browser based logbook management app, where users can assign trips to a specific category and reason.
-
----
+Have a look at this full featured (create, delete, search) [click dummy](https://projects.invisionapp.com/share/AC4105VQ3) of a "reason" management tool. Something that could be required in our browser based logbook management app, where users can assign trips to a specific category and reason: https://projects.invisionapp.com/share/AC4105VQ3
 [![Click dummy][2]][1]
   [1]: https://projects.invisionapp.com/share/AC4105VQ3
-  [2]: https://raw.githubusercontent.com/vimcar/coding-challenge-frontend/master/img/clickdummy.png
-Click dummy: https://projects.invisionapp.com/share/AC4105VQ3
-
----
-
+  [2]: https://raw.githubusercontent.com/vimcar/coding-challenge-frontend/master/img/click-dummy.png
 
 ### Your Task
 
