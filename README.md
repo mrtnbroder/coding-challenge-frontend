@@ -12,7 +12,7 @@ Have a look at this full featured (create, delete, search) click dummy of a "rea
 
 [![Click dummy][2]][1]
   [1]: https://projects.invisionapp.com/share/AC4105VQ3
-  [2]: https://raw.githubusercontent.com/vimcar/codingtest-frontend/master/img/clickdummy.png
+  [2]: https://raw.githubusercontent.com/vimcar/coding-challenge-frontend/master/img/clickdummy.png
 
 https://projects.invisionapp.com/share/AC4105VQ3
 
