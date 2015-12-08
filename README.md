@@ -1,11 +1,13 @@
 # <img src="https://avatars2.githubusercontent.com/u/15102685?v=3&s=50" style="height: 40px; vertical-align: text-bottom;"> Vimcar
 
-Vimcar is a Berlin based IoT (internet of things) startup which provides exciting "connected car" services to companies and endusers. You can find much more interesting facts on our website: http://vimcar.de 
+Vimcar is a connected car startup, based in Berlin and backed by investors behind SoundCloud, EyeEm and Clara. Our mission is to build intelligent products based on business vehicle data. You can find more on our website: http://vimcar.de 
 
 We are looking for a great **Frontend Developer** to join our team and work on our next client side web applications (based on Flux and React).
 
 ## Frontend Developer Coding Challenge
-Thank you very much for applying and your interest in Vimcar. To get to know you a little better, show off your skills and take part in our frontend coding challenge. Please send your results to jobs@vimcar.com or create a pull request or use any other channel, if we are already in contact.
+Thank you very much for your interest in Vimcar! 
+
+To get to know you a little better, show off your skills in our frontend coding challenge. Please send your results to jobs@vimcar.com or create a pull request or use any other channel, if we are already in contact.
 
 ### The Challenge: A "Reason" Management Tool
 Have a look at this full featured (create, delete, search) [click dummy](https://projects.invisionapp.com/share/AC4105VQ3) of a "reason" management tool. Something that could be required in our browser based logbook management app, where users can assign trips to a specific category and reason: https://projects.invisionapp.com/share/AC4105VQ3
