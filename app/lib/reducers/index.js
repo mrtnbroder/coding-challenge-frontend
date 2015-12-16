@@ -1,9 +1,9 @@
 
 import { combineReducers } from 'redux'
-import counter from './counter'
+import { default as reasons } from './reasons'
 
 const rootReducer = combineReducers({
-  counter
+  reasons
 })
 
 export default rootReducer
